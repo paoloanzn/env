@@ -1,0 +1,12 @@
+colima
+docker
+docker-compose
+htop
+node
+nvm
+openjdk
+python-setuptools
+qemu
+tmux
+tree
+wget
